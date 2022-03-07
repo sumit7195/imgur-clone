@@ -68,8 +68,8 @@ function fillData(data) {
           commentEl,
           viewIcon,
           viewEl,
+          likeIcon,
           like,
-          likeIcon
         );
 
         div.append(imgDiv, titleEl, viewDiv);
